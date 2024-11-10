@@ -1,7 +1,7 @@
-```markdown
+
 # Real Estate House Price Prediction
 
-This project aims to predict house prices in a specific area using linear regression. By analyzing various factors such as house age, proximity to public transportation, and the number of nearby convenience stores, we can predict the price per unit area.
+This project aims to predict house prices in a specific area using linear regression. By analyzing factors such as house age, proximity to public transportation, and the number of nearby convenience stores, the model predicts the price per unit area.
 
 ## Dataset
 
@@ -17,7 +17,7 @@ The dataset contains 414 entries with the following columns:
 
 ## Project Overview
 
-This project utilizes Python libraries, including `pandas`, `scikit-learn`, `seaborn`, and `matplotlib`, to perform data analysis and visualize correlations between features. The steps include:
+This project utilizes Python libraries, including `pandas`, `scikit-learn`, `seaborn`, and `matplotlib`, to perform data analysis and visualize correlations between features. Key steps include:
 
 1. **Data Preprocessing**:
    - Loaded and inspected the dataset.
@@ -49,7 +49,7 @@ This project utilizes Python libraries, including `pandas`, `scikit-learn`, `sea
 ## Key Findings
 
 - The model explains approximately 70% of the variance in house prices, indicating a reasonably good fit.
-- Outliers impacted the model, and removing them slightly improved model performance.
+- Removing outliers slightly improved model performance.
 
 ## Future Improvements
 
@@ -73,3 +73,8 @@ This project utilizes Python libraries, including `pandas`, `scikit-learn`, `sea
    git clone https://github.com/Lourdhu02/real-estate-house-price-prediction.git
    ```
 2. Run the Jupyter Notebook or Python script containing the analysis.
+
+Feel free to reach out for any questions or contributions!
+```
+
+This README provides a concise overview of the project and instructions for running it. Let me know if you need more adjustments!
